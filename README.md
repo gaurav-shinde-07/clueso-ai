@@ -76,7 +76,7 @@ The system builds a "Long-Term Memory" of all recorded guides.
 1.  **Clone the Repository**
     ```bash
     git clone https://github.com/gaurav-shinde-07/clueso-ai
-    cd Clueso-clone
+    cd Clueso-ai
     ```
 
 2.  **Install Dependencies**
