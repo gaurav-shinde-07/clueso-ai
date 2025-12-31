@@ -7,6 +7,7 @@ import { RecordingVideoPlayer } from './components/RecordingVideoPlayer';
 import { RecordingGuide } from './components/RecordingGuide';
 import { RecordingTranscript } from './components/RecordingTranscript';
 
+
 interface RecordingDetailProps {
     id: string;
     onBack: () => void;

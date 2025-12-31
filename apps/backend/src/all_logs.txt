@@ -386,3 +386,55 @@ Data: {
 ----------------------------------
 [2025-12-31T16:31:23.060Z] [APP] [INFO] Logger Initialized
 ----------------------------------
+[2025-12-31T17:04:24.631Z] [APP] [INFO] Logger Initialized
+----------------------------------
+[2025-12-31T17:04:51.969Z] [APP] [INFO] Logger Initialized
+----------------------------------
+[2025-12-31T17:04:52.263Z] [APP] [INFO] Logger Initialized
+----------------------------------
+[2025-12-31T17:05:13.296Z] [API] [INFO] Uploading Recording to Backend
+Data: {
+  "userId": "demo-user-1",
+  "duration": 6.113
+}
+----------------------------------
+[2025-12-31T17:06:15.212Z] [APP] [INFO] Logger Initialized
+----------------------------------
+[2025-12-31T17:06:19.705Z] [APP] [INFO] Logger Initialized
+----------------------------------
+[2025-12-31T17:06:34.207Z] [API] [INFO] Uploading Recording to Backend
+Data: {
+  "userId": "demo-user-1",
+  "duration": 6.586
+}
+----------------------------------
+[2025-12-31T17:07:01.779Z] [APP] [INFO] Logger Initialized
+----------------------------------
+[2025-12-31T17:09:50.483Z] [APP] [INFO] Logger Initialized
+----------------------------------
+[2025-12-31T17:10:05.403Z] [API] [INFO] Uploading Recording to Backend
+Data: {
+  "userId": "demo-user-1",
+  "duration": 45.533022
+}
+----------------------------------
+[2025-12-31T17:24:46.142Z] [APP] [INFO] Logger Initialized
+----------------------------------
+[2025-12-31T17:25:32.186Z] [API] [INFO] Uploading Recording to Backend
+Data: {
+  "userId": "demo-user-1",
+  "duration": 0
+}
+----------------------------------
+[2025-12-31T17:25:51.852Z] [APP] [INFO] Logger Initialized
+----------------------------------
+[2025-12-31T17:38:54.670Z] [APP] [INFO] Logger Initialized
+----------------------------------
+[2025-12-31T17:40:10.883Z] [APP] [INFO] Logger Initialized
+----------------------------------
+[2025-12-31T17:41:00.529Z] [API] [INFO] Uploading Recording to Backend
+Data: {
+  "userId": "demo-user-1",
+  "duration": 0
+}
+----------------------------------

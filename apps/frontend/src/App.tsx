@@ -9,7 +9,7 @@ import { RecordingDetail } from './features/recordings/RecordingDetail';
 
 export default function App() {
     const [user] = useState<User>({
-        id: 'demo-user-1', name: 'Demo User', email: 'user@clueso.clone',
+        id: 'demo-user-1', name: 'Demo User dash', email: 'user@clueso.clone',
         avatarUrl: 'https://ui-avatars.com/api/?name=Demo+User&background=random'
     });
     const [view, setView] = useState<'dashboard' | 'detail'>('dashboard');
