@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "Clueso.io Clone Recorder",
+  "version": "1.0",
+  "description": "Record screen and click events for Clueso.io tutorials.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Start Recording"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ]
+}
