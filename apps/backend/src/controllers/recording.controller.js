@@ -142,6 +142,6 @@ export const RecordingController = {
             console.error(`[Pipeline] RAG Ingestion failed for ${id}`, ragErr);
         }
 
-        console.log(`[Pipeline] Completed for ${id}`);
+        
     }
 };
